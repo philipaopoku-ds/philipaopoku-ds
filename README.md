@@ -22,7 +22,7 @@ I love learning new technologies, building innovative projects, and solving real
 
 ## 🧠 About Me  
 - 🎓 Petroleum & Process Engineer with a strong interest in **Machine Learning, Data Science, and Process Automation**  
-- ⚙️ Currently exploring **AWS**, **Python-based process simulation**, and **web applications**  
+- ⚙️ Currently exploring **Data Science**, **AWS**, and **web applications**  
 - 💡 Constantly learning to bridge the gap between **engineering systems** and **digital transformation**   
 
 ---
