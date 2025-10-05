@@ -14,7 +14,7 @@ I love learning new technologies, building innovative projects, and solving real
 
 - 🔭 I’m currently working on **Credit Card Fraud Detection**
 
-- 👯 I’m looking to collaborate on **Data Science, AWS and ML Projects**
+- 👯 I’m looking to collaborate on **Data Science, ML Projects and AWS**
 
 - 📫 How to reach me **opokuphilipa2@gmail.com**
 
