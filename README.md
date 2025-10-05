@@ -5,9 +5,10 @@
 ### 🧪 Petroleum & Process Engineer | 💻 Data Science & ML Enthusiast | ☁️ AWS & Web Development
 
 
-Welcome to my GitHub profile!  
+Welcome to my GitHub profile! 
 I'm passionate about **process optimization, automation, and leveraging data-driven solutions** to improve industrial systems.  
 I love learning new technologies, building innovative projects, and solving real-world engineering problems through **data science and cloud computing**.
+
 
 ---
 
