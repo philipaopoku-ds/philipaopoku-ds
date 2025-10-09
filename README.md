@@ -56,6 +56,11 @@ I enjoy exploring new technologies, building innovative projects, and solving re
 
 ---
 
+### Certifications
+Check out my certifications on [Credly](https://www.credly.com/users/philipa-opoku)
+
+---
+
 ## 📊 GitHub Stats  
 ![Philipa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=philipaopoku-ds&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=philipaopoku-ds&layout=compact&theme=radical)
