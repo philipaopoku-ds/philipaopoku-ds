@@ -56,7 +56,7 @@ I enjoy exploring new technologies, building innovative projects, and solving re
 
 ---
 
-### Certifications
+## 🎖️ Certifications
 Check out my certifications on [Credly](https://www.credly.com/users/philipa-opoku)
 
 ---
