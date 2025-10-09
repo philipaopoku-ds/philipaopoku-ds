@@ -63,9 +63,9 @@ I enjoy exploring new technologies, building innovative projects, and solving re
 ---
 
 ## 💬 Let's Connect!  
-📫 **Email:** [opokuphilipa2@gmail.com](mailto:opokuphilipa2@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/philipaopoku](https://linkedin.com/in/philipaopoku)  
-🌐 **Portfolio:** [philipaopoku.github.io](https://philipaopoku.github.io)  
+📫 **Email:** [Gmail](mailto:opokuphilipa2@gmail.com)  
+💼 **LinkedIn:** [Profile](https://linkedin.com/in/philipaopoku)  
+🌐 **Portfolio:** [Website](https://philipaopoku-ds.github.io/My_Portfolio_WEBSITE/)  
 
 ---
 
