@@ -2,7 +2,7 @@
   
 # Hi there, I'm Philipa 👋  
 
-### 👷 Petroleum & Process Engineer | 💻 Data Science & ML Enthusiast | ☁️ Certified AWS Cloud Practitioner
+### 👷 Petroleum & Process Engineer | 💻 Data Science & ML Enthusiast | ☁️ Certified AWS Practitioner
 
 
 #### Welcome to my GitHub profile!
