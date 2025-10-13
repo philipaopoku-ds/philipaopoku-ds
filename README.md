@@ -62,7 +62,12 @@ I enjoy exploring new technologies, building innovative projects, and solving re
 ---
 
 ## 🎖️ Certifications
-Check out my certifications on [Credly](https://www.credly.com/users/philipa-opoku)
+Check out my AWS cloud certifications on [Credly](https://www.credly.com/users/philipa-opoku)
+- Data Science and Machine Learning - [IBT](https://learn.ibtlearning.africa/certificates/wbzbwz61r8)
+- View more of my certifications [Here](https://drive.google.com/drive/folders/1x14Co_oT-MlyXhZLCCzTpy1WCDXf82dy?usp=drive_link)
+
+
+
 
 ---
 
