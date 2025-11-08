@@ -47,17 +47,20 @@ I enjoy exploring new technologies, building innovative projects, and solving re
 ---
 
 ## 🌟 Featured Projects  
-- [🍕 **Pizza Sales Exploratory Data Analysis**](https://github.com/philipaopoku-ds/Pizza-Sales-_Exploratory-Data-Analysis)  
-  Data exploration and visualization of pizza sales to uncover key business insights and performance trends.  
+
+
+- [⚙️🤖 **Machine learning for Predictive Maintenance**](https://github.com/philipaopoku-ds/Predictive-Maintenance-Modelling-)  
+  Revolutionizing Machine Failures in Industrial Systems using cutting-edge ML techniques.  
 
 - [🚗 **Tesla Stock Price Prediction**](https://github.com/philipaopoku-ds/Tesla-stock-price-prediction)  
   Machine learning model predicting Tesla stock price movements using time series and regression techniques.  
 
 - [🏠 **US House Price Prediction**](https://github.com/philipaopoku-ds/US-House-Price-Prediction-Project)  
-  Predictive modeling project for real estate prices using multiple regression and feature engineering.  
+  Predictive modeling project for real estate prices using multiple regression and feature engineering.
+  
+- [🍕 **Pizza Sales Exploratory Data Analysis**](https://github.com/philipaopoku-ds/Pizza-Sales-_Exploratory-Data-Analysis)  
+  Data exploration and visualization of pizza sales to uncover key business insights and performance trends.  
 
-- [🏧 **ATM Machine Simulation**](https://github.com/philipaopoku-ds/ATM-Machine)  
-  A Python-based project simulating ATM functionalities like withdrawals, deposits, and balance checks.  
 
 ---
 
