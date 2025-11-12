@@ -50,8 +50,11 @@ I enjoy exploring new technologies, building innovative projects, and solving re
 
 
 - [⚙️🤖 **Machine learning for Predictive Maintenance**](https://github.com/philipaopoku-ds/Predictive-Maintenance-Modelling-)  
-  Revolutionizing Machine Failures in Industrial Systems using cutting-edge ML techniques.  
+  Revolutionizing Machine Failures in Industrial Systems using cutting-edge ML techniques.
 
+- [⚙️🤖 **SPE Datathon 2025 Competition**](https://github.com/philipaopoku-ds/DSEATS-AFRICA-2025/blob/main/DSEATS_Africa_2025_Classification.ipynb)  
+  Revolutionizing Machine Failures in Industrial Systems using cutting-edge ML techniques.
+  
 - [🚗 **Tesla Stock Price Prediction**](https://github.com/philipaopoku-ds/Tesla-stock-price-prediction)  
   Machine learning model predicting Tesla stock price movements using time series and regression techniques.  
 
