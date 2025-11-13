@@ -49,15 +49,20 @@ I enjoy exploring new technologies, building innovative projects, and solving re
 ## 🌟 Featured Projects  
 
 
-- [⚙️🤖 **Machine learning for Predictive Maintenance**](https://github.com/philipaopoku-ds/Predictive-Maintenance-Modelling-)  
+- [⚙️**Machine learning for Predictive Maintenance**](https://github.com/philipaopoku-ds/Predictive-Maintenance-Modelling-)  
   Revolutionizing Machine Failures in Industrial Systems using cutting-edge ML techniques.
 
-- [🏭**SPE Datathon 2025 Competition**](https://github.com/philipaopoku-ds/DSEATS-AFRICA-2025/blob/main/DSEATS_Africa_2025_Classification.ipynb)  
+- [🏭**SPE Datathon 2025**](https://github.com/philipaopoku-ds/DSEATS-AFRICA-2025/blob/main/DSEATS_Africa_2025_Classification.ipynb)  
   Classification of Oil Wells in the DSEATS Field Using Machine Learning.
 
- 
 - [🏭**Fraud Detection App**](https://github.com/philipaopoku-ds/Fraud-Detection)  
   Machine Learning-Based Fraud Detection System
+
+- [🛢️**Lithology Classification**](https://github.com/philipaopoku-ds/My-R-project)  
+  Using Machine Learning for Lithology Classification from Wireline Logs
+
+- [♟️**Chess Pieces Classification**](https://github.com/philipaopoku-ds/chess-pieces-classification-using-deep-learning)  
+  Chess pieces classification using Deep Learning
   
 ---
 
