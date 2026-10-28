@@ -1,8 +1,18 @@
 <div style="font-family:'Times New Roman', Times, serif; font-size:11px;">
   
-# Hi there, I'm Philipa 👋  
+# Hi there, I'm Philipa 👋
 
-### 👷 Petroleum & Process Engineer | 💻 Data Science & ML Enthusiast | ☁️ Certified AWS Practitioner
+### 👷 Process Engineer: Gas Plant Commissioning & Operations | 🎓 MEng Student, University of Calgary | 💻 Data Science & ML | ☁️ AWS Certified Cloud Practitioner
+
+I'm a process engineer with **four years of experience in Ghana's energy industry**, working on live, operating facilities:
+
+- ⚙️ **Process engineer, commissioning:** part of the team that commissioned a 200 MMscf/d gas conditioning plant, covering sweetening, dehydration, the cryogenic section and fractionation
+- 🛠️ **Operations engineer:** monitored and operated a live 420 km+ gas pipeline network and power units through SCADA and local control panels, responding to trips and keeping operations running safely
+- 🧪 **Process simulation:** built plant models in Aspen HYSYS under the guidance of my supervisor
+
+I'm now completing a **Master of Engineering in Chemical and Petroleum Engineering at the University of Calgary**, where I'm combining this field experience with **data science, machine learning and cloud computing** to solve practical engineering problems.
+
+I don't have all the answers, and I enjoy that. I'm eager to learn how the Canadian energy industry works, to learn from experienced engineers, and to keep growing with every project and challenge. 🌱
 
 
 #### Welcome to my GitHub profile!
@@ -13,7 +23,7 @@ I enjoy exploring new technologies, building innovative projects, and solving re
 ---
 
 
-- 🔭 I’m currently working on **Credit Card Fraud Detection**
+- 🔭 I’m currently working on **More Aspen hysys simulation projects, Building AWS projects, and Credit Card Fraud Detection**
 
 - 👯 I’m looking to collaborate on **Data Science, ML Projects and AWS**
 
