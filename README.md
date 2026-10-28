@@ -6,13 +6,9 @@
 
 I'm a process engineer with **four years of experience** commissioning and operating live gas facilities in Ghana, including a 200 MMscf/d gas conditioning plant and a 420 km+ pipeline network.
 
-I'm now studying for a **Master of Engineering in Chemical and Petroleum Engineering** at the University of Calgary, combining field experience with **data science and cloud computing**.
+I'm completing a **Master of Engineering in Chemical and Petroleum Engineering at the University of Calgary**. Alongside my studies, I'm building skills in **data science, machine learning and cloud computing**, both independently and through collaborative projects, and applying them to practical engineering problems from my field experience.
 
-I don't have all the answers, and I'm always eager to learn from experienced engineers and grow with every challenge. 🌱
-
-I'm now completing a **Master of Engineering in Chemical and Petroleum Engineering at the University of Calgary**, where I'm combining this field experience with **data science, machine learning and cloud computing** to solve practical engineering problems.
-
-I don't have all the answers, and I enjoy that. I'm eager to learn how the Canadian energy industry works, to learn from experienced engineers, and to keep growing with every project and challenge. 🌱
+I don't have all the answers, and I enjoy that. I'm willing and open to learning how the Canadian energy industry works, to learn from experienced engineers, and to keep growing with every project and challenge. 🌱
 
 
 #### Welcome to my GitHub profile!
