@@ -55,6 +55,12 @@ I enjoy exploring new technologies, building innovative projects, and solving re
 - [🏭**SPE Datathon 2025**](https://github.com/philipaopoku-ds/DSEATS-AFRICA-2025/blob/main/DSEATS_Africa_2025_Classification.ipynb)  
   Classification of Oil Wells in the DSEATS Field Using Machine Learning.
 
+- [🧪**Turbo Expander NGL Recovery Simulator**](https://github.com/philipaopoku-ds/ngl-recovery-simulator) · [Live app](https://ngl-recovery-simulator.streamlit.app/)  
+  Python simulation of a cryogenic gas plant (Peng-Robinson EOS) showing how temperature and column pressure trade NGL recovery against compression power.
+
+- [☁️**Secure Website Hosting on AWS**](https://d2oytk3ycuqnei.cloudfront.net/) · [Website code](https://github.com/philipaopoku-ds/website-samples)  
+  Five website concepts served worldwide over HTTPS from a private S3 bucket through CloudFront, with Origin Access Control and a CloudFront Function.
+
 - [🏭**Fraud Detection App**](https://github.com/philipaopoku-ds/Fraud-Detection)  
   Machine Learning-Based Fraud Detection System
 
