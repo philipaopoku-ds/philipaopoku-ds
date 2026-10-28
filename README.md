@@ -6,9 +6,9 @@
 
 I'm a process engineer with **four years of experience in Ghana's energy industry**, working on live, operating facilities:
 
-- ⚙️ **Process engineer, commissioning:** part of the team that commissioned a 200 MMscf/d gas conditioning plant, covering sweetening, dehydration, the cryogenic section and fractionation
-- 🛠️ **Operations engineer:** monitored and operated a live 420 km+ gas pipeline network and power units through SCADA and local control panels, responding to trips and keeping operations running safely
-- 🧪 **Process simulation:** built plant models in Aspen HYSYS under the guidance of my supervisor
+⚙️ **Process engineer, commissioning:** part of the team that commissioned a 200 MMscf/d gas conditioning plant, covering sweetening, dehydration, the cryogenic section and fractionation
+🛠️ **Operations engineer:** monitored and operated a live 420 km+ gas pipeline network and power units through SCADA and local control panels, responding to trips and keeping operations running safely
+🧪 **Process simulation:** built plant models in Aspen HYSYS under the guidance of my supervisor
 
 I'm now completing a **Master of Engineering in Chemical and Petroleum Engineering at the University of Calgary**, where I'm combining this field experience with **data science, machine learning and cloud computing** to solve practical engineering problems.
 
